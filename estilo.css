@@ -1,0 +1,7 @@
+.fondoo{
+    background-image: url(fondito.png);
+    height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
