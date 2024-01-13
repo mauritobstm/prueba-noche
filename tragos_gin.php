@@ -92,6 +92,7 @@ require_once 'header.php';
     </div>           
     
 </section>
+<!-- gin tonic-->
 <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">

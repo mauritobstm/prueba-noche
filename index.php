@@ -21,8 +21,8 @@
         <section class="page-section bg-dark" id="portfolio">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-light">Portfolio</h2>
-                    <h3 class="section-subheading text-light">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading text-light">Menú</h2>
+                    <h3 class="section-subheading text-light">Aquí encontrarás las preparaciones de tus tragos favoritos</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 mb-4">
