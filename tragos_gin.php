@@ -21,9 +21,10 @@ require_once 'header.php';
             </div>
         </nav>
 <body>
-    <div class="fondoo d-flex justify-content-center align-items-center">
-        <h1 class="bordeado">Tragos con Vodka</h1>
+    <div class="fondogin d-flex justify-content-center align-items-center">
+        <h1 class="bordeado">Tragos con Gin</h1>
     </div>
+
 <section class="page-section bg-dark" id="portfolio">
     <div class="container mt-2">
         <div class="row justify-content-center">
@@ -31,13 +32,13 @@ require_once 'header.php';
                 <!-- Portfolio item 2-->
                 <div class="portfolio-item">
                     <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal2">
-                        <div class="portfolio-hover">
+                        <div class="portfolio-hover bg-dark bg-opacity-50">
                             <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
                         </div>
                         <img class="img-fluid" src="assets/img/portfolio/2.jpg" alt="..." />
                     </a>
                     <div class="portfolio-caption">
-                        <div class="portfolio-caption-heading">Daikiri</div>
+                        <div class="portfolio-caption-heading">Gin Tonic</div>
                         <div class="portfolio-caption-subheading text-muted">Receta</div>
                     </div>
                 </div>
@@ -46,7 +47,7 @@ require_once 'header.php';
                         <!-- Portfolio item 3-->
                         <div class="portfolio-item">
                             <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal3">
-                                <div class="portfolio-hover">
+                                <div class="portfolio-hover bg-dark bg-opacity-50">
                                     <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
                                 </div>
                                 <img class="img-fluid" src="assets/img/portfolio/3.jpg" alt="..." />
@@ -61,7 +62,7 @@ require_once 'header.php';
                         <!-- Portfolio item 3-->
                         <div class="portfolio-item">
                             <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal3">
-                                <div class="portfolio-hover">
+                                <div class="portfolio-hover bg-dark bg-opacity-50">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
                                 <img class="img-fluid" src="assets/img/portfolio/3.jpg" alt="..." />
@@ -76,7 +77,7 @@ require_once 'header.php';
                         <!-- Portfolio item 3-->
                         <div class="portfolio-item">
                             <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal3">
-                                <div class="portfolio-hover">
+                                <div class="portfolio-hover bg-dark bg-opacity-50">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
                                 <img class="img-fluid" src="assets/img/portfolio/3.jpg" alt="..." />

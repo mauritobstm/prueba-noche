@@ -1,7 +1,33 @@
 .fondoo{
     background-image: url(fondito.png);
-    height: 80vh;
+    height: 85vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.fondogin{
+    background-image: url(fondogin.jpeg);
+    height: 85vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bordeado {
+    font-size: 55px;      /* Tamaño de fuente */
+    color: #fff;          /* Color de texto */
+    text-shadow: 
+      -1px -1px 0 #000,  
+       1px -1px 0 #000,
+      -1px  1px 0 #000,
+       1px  1px 0 #000;  /* Efecto de sombra */
+  }
+
+  .sombra{
+    text-shadow: 
+      -1px -1px 0 #000,  
+       1px -1px 0 #000,
+      -1px  1px 0 #000,
+       1px  1px 0 #000;
+  }

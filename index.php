@@ -11,9 +11,9 @@
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
-                <div class="masthead-subheading">¡Bienvenidos!</div>
-                <div class="masthead-heading text-uppercase">Disfruten de sus tragos</div>
-                <a class="btn btn-danger btn-xl text-uppercase" href="#services">Leer Más</a>
+                <div class="sombra masthead-subheading">¡Bienvenidos!</div>
+                <div class="sombra masthead-heading text-uppercase">Disfruten de sus tragos</div>
+                <a class="sombra btn btn-danger btn-xl text-uppercase" href="#services">Leer Más</a>
             </div>
         </header>
         
@@ -32,7 +32,7 @@
                                 <div class="portfolio-hover bg-dark bg-opacity-50">
                                     <div class="portfolio-hover-content"><?php require 'fat.php'; ?></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/vodka1.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/portfolio/vodka.jpeg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Tragos con Vodka</div>
@@ -42,14 +42,14 @@
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <!-- Portfolio item 2-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal2">
+                            <a class="portfolio-link" href="tragos_gin.php">
                                 <div class="portfolio-hover bg-dark bg-opacity-50">
                                     <div class="portfolio-hover-content"><?php require 'fat.php'; ?></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/2.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/portfolio/gin1.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Explore</div>
+                                <div class="portfolio-caption-heading">Tragos con Gin</div>
                             </div>
                         </div>
                     </div>
