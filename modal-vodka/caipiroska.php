@@ -9,7 +9,7 @@
                             <div class="modal-body">
                                 <!-- detalles del proyecto-->
                                 <h2 class="text-uppercase">Caipiroska</h2>
-                                <img class="img-fluid d-block mx-auto mt-5" src="assets/img/portfolio/whiterussian.jpg" alt="..." />
+                                <img class="img-fluid d-block mx-auto mt-5" src="assets/img/portfolio/caipiroska.jpg" alt="..." />
                                 
                                 <ul class="list-inline"><strong>Ingredientes</strong>
                                     <li>60 ml de vodka</li>

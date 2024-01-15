@@ -125,7 +125,7 @@ require_once 'header.php';
                         <div class="portfolio-hover bg-dark bg-opacity-50">
                             <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/screwdriver.jpg" alt="..." />
+                        <img class="img-fluid" src="assets/img/portfolio/vodkatonic.jpg" alt="..." />
                     </a>
                     <div class="portfolio-caption">
                         <div class="portfolio-caption-heading">Vodka Tonic</div>
@@ -143,7 +143,7 @@ require_once 'header.php';
                         <div class="portfolio-hover bg-dark bg-opacity-50">
                             <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/screwdriver.jpg" alt="..." />
+                        <img class="img-fluid" src="assets/img/portfolio/moscowmule.jpg" alt="..." />
                     </a>
                     <div class="portfolio-caption">
                         <div class="portfolio-caption-heading">Moscow Mule</div>
@@ -161,7 +161,7 @@ require_once 'header.php';
                         <div class="portfolio-hover bg-dark bg-opacity-50">
                             <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/screwdriver.jpg" alt="..." />
+                        <img class="img-fluid" src="assets/img/portfolio/caipiroska.jpg" alt="..." />
                     </a>
                     <div class="portfolio-caption">
                         <div class="portfolio-caption-heading">Caipiroska</div>
@@ -179,7 +179,7 @@ require_once 'header.php';
                         <div class="portfolio-hover bg-dark bg-opacity-50">
                             <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/screwdriver.jpg" alt="..." />
+                        <img class="img-fluid" src="assets/img/portfolio/blackrussian.jpg" alt="..." />
                     </a>
                     <div class="portfolio-caption">
                         <div class="portfolio-caption-heading">Black Russian</div>
@@ -197,7 +197,7 @@ require_once 'header.php';
                         <div class="portfolio-hover bg-dark bg-opacity-50">
                             <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/screwdriver.jpg" alt="..." />
+                        <img class="img-fluid" src="assets/img/portfolio/sexonthebeach.jpg" alt="..." />
                     </a>
                     <div class="portfolio-caption">
                         <div class="portfolio-caption-heading">Sex on the Beach</div>
@@ -215,7 +215,7 @@ require_once 'header.php';
                         <div class="portfolio-hover bg-dark bg-opacity-50">
                             <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/screwdriver.jpg" alt="..." />
+                        <img class="img-fluid" src="assets/img/portfolio/kamikaze.jpg" alt="..." />
                     </a>
                     <div class="portfolio-caption">
                         <div class="portfolio-caption-heading">Kamikaze</div>

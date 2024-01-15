@@ -9,14 +9,15 @@
                             <div class="modal-body">
                                 <!-- detalles del proyecto-->
                                 <h2 class="text-uppercase">Vodka Tonic</h2>
-                                <img class="img-fluid d-block mx-auto mt-5" src="assets/img/portfolio/whiterussian.jpg" alt="..." />
+                                <img class="img-fluid d-block mx-auto mt-5" src="assets/img/portfolio/vodkatonic.jpg" alt="..." />
                                 
                                 <ul class="list-inline"><strong>Ingredientes</strong>
-                                    <li>50ml de vodka</li>
-                                    <li>150ml de agua tónica</li>
+                                    <li>50 ml de vodka</li>
+                                    <li>150 ml de agua tónica</li>
                                     <li>Rodaja de limón</li>
                                     <li>Hielo</li>
                                     <li>(opcional) Jugo de limón</li>
+                                    <li>(opcional) Se le puede agregar arandanos o frutos rojos</li>
                                 </ul>
                                 
                                 <ul class="list-inline"><strong>Preparación</strong>

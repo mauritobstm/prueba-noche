@@ -9,17 +9,17 @@
                             <div class="modal-body">
                                 <!-- detalles del proyecto-->
                                 <h2 class="text-uppercase">Kamikaze</h2>
-                                <img class="img-fluid d-block mx-auto mt-5" src="assets/img/portfolio/whiterussian.jpg" alt="..." />
+                                <img class="img-fluid d-block mx-auto mt-5" src="assets/img/portfolio/kamikaze.jpg" alt="..." />
                                 
                                 <ul class="list-inline"><strong>Ingredientes</strong>
                                     <li>40 ml de vodka</li>
-                                    <li>30 ml de Triple Seco</li>
-                                    <li>30 ml de zumo de limón</li>
+                                    <li>30 ml de Licor Bols Triple Seco</li>
+                                    <li>30 ml de jugo de limón</li>
                                     <li>Hielo</li>
                                 </ul>
                                 
                                 <ul class="list-inline"><strong>Preparación</strong>
-                                    <li>Agrega el vodka, el Triple Seco y el zumo de limón en una coctelera con hielo o un vaso para agitár.</li>
+                                    <li>Agrega el vodka, el Triple Seco y el jugo de limón en una coctelera con hielo o un vaso para agitár.</li>
                                     <li>Agita bien y luego cuela la mezcla en una copa previamente enfriada.</li>
                                     <li><strong>Espero que te guste. ¡Salud!</strong> 🍹</li>
                                 </ul>

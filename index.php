@@ -49,7 +49,7 @@
                                 <img class="img-fluid" src="assets/img/portfolio/gin1.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Tragos con Gin</div>
+                                <div class="portfolio-caption-heading">Tragos con Ginebra</div>
                             </div>
                         </div>
                     </div>

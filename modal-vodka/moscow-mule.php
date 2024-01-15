@@ -9,7 +9,7 @@
                             <div class="modal-body">
                                 <!-- detalles del proyecto-->
                                 <h2 class="text-uppercase">Moscow Mule</h2>
-                                <img class="img-fluid d-block mx-auto mt-5" src="assets/img/portfolio/whiterussian.jpg" alt="..." />
+                                <img class="img-fluid d-block mx-auto mt-5" src="assets/img/portfolio/moscowmule.jpg" alt="..." />
                                 
                                 <ul class="list-inline"><strong>Ingredientes</strong>
                                     <li>60 ml de vodka</li>
@@ -20,7 +20,7 @@
                                 </ul>
                                 
                                 <ul class="list-inline"><strong>Preparación</strong>
-                                    <li>Llena un vaso con hielo.</li>
+                                    <li>Llena un vaso de cobre o normal con hielo.</li>
                                     <li>Vierte el vodka y el jugo de lima sobre el hielo.</li>
                                     <li>Llena el vaso con ginger beer.</li>
                                     <li>Remueve suavemente para mezclar los ingredientes.</li>
