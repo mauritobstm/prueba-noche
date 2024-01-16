@@ -42,7 +42,7 @@
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <!-- Portfolio item 2-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" href="tragos_gin.php">
+                            <a class="portfolio-link" href="tragos_ginebra.php">
                                 <div class="portfolio-hover bg-dark bg-opacity-50">
                                     <div class="portfolio-hover-content"><?php require 'fat.php'; ?></div>
                                 </div>

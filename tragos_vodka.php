@@ -197,7 +197,7 @@ require_once 'header.php';
                         <div class="portfolio-hover bg-dark bg-opacity-50">
                             <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/sexonthebeach.jpg" alt="..." />
+                        <img class="img-fluid" src="assets/img/portfolio/sexonthebeach1.jpg" alt="..." />
                     </a>
                     <div class="portfolio-caption">
                         <div class="portfolio-caption-heading">Sex on the Beach</div>
@@ -224,6 +224,24 @@ require_once 'header.php';
                 </div>
             </div>
             <!-- KAMIKAZE-->
+
+            <!-- SEX IN THE DRIVEWAY-->
+            <div class="col-lg-4 col-sm-6 mb-4">
+                        
+                <div class="portfolio-item">
+                    <a class="portfolio-link" data-bs-toggle="modal" href="#sexinthedriveway">
+                        <div class="portfolio-hover bg-dark bg-opacity-50">
+                            <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
+                        </div>
+                        <img class="img-fluid" src="assets/img/portfolio/sexinthedriveway.jpg" alt="..." />
+                    </a>
+                    <div class="portfolio-caption">
+                        <div class="portfolio-caption-heading">Sex in the Driveway</div>
+                        <div class="portfolio-caption-subheading text-muted">Receta</div>
+                    </div>
+                </div>
+            </div>
+            <!-- SEX IN THE DRIVEWAY-->
         </div> 
     </div>           
     
@@ -282,6 +300,11 @@ require_once 'modal-vodka/sex-on-the-beach.php';
 <!-- MODAL KAMIKAZE-->
 <?php
 require_once 'modal-vodka/kamikaze.php';
+?>
+
+<!-- MODAL SEX IN THE DRIVEWAY-->
+<?php
+require_once 'modal-vodka/sex-in-the-driveway.php';
 ?>
 
 </body>
