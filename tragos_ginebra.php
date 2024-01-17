@@ -82,6 +82,24 @@ require_once 'header.php';
             </div>
             <!-- TOM COLLINS-->
 
+            <!-- BLACK LADY-->
+            <div class="col-lg-4 col-sm-6 mb-4 ">
+                
+                <div class="portfolio-item">
+                    <a class="portfolio-link" data-bs-toggle="modal" href="#blacklady">
+                        <div class="portfolio-hover bg-dark bg-opacity-50">
+                            <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
+                        </div>
+                        <img class="img-fluid" src="assets/img/portfolio/blacklady.jpg" alt="..." />
+                    </a>
+                    <div class="portfolio-caption">
+                        <div class="portfolio-caption-heading">Black Lady</div>
+                        <div class="portfolio-caption-subheading text-muted">Receta</div>
+                    </div>
+                </div>
+            </div>
+            <!-- BLACK LADY-->
+
             <!-- DRY MARTINI-->
             <div class="col-lg-4 col-sm-6 mb-4 ">
                 
@@ -99,6 +117,42 @@ require_once 'header.php';
                 </div>
             </div>
             <!-- DRY MARTINI-->
+
+              <!-- ALABAMA SLAMMER-->
+            <div class="col-lg-4 col-sm-6 mb-4 ">
+                
+                <div class="portfolio-item">
+                    <a class="portfolio-link" data-bs-toggle="modal" href="#alabamaslammer">
+                        <div class="portfolio-hover bg-dark bg-opacity-50">
+                            <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
+                        </div>
+                        <img class="img-fluid" src="assets/img/portfolio/alabamaslammer.jpg" alt="..." />
+                    </a>
+                    <div class="portfolio-caption">
+                        <div class="portfolio-caption-heading">Alabama Slammer</div>
+                        <div class="portfolio-caption-subheading text-muted">Receta</div>
+                    </div>
+                </div>
+            </div>
+            <!-- ALABAMA SLAMMER-->
+
+             <!-- SINGAPORE SLING-->
+            <div class="col-lg-4 col-sm-6 mb-4 ">
+                
+                <div class="portfolio-item">
+                    <a class="portfolio-link" data-bs-toggle="modal" href="#singaporesling">
+                        <div class="portfolio-hover bg-dark bg-opacity-50">
+                            <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
+                        </div>
+                        <img class="img-fluid" src="assets/img/portfolio/singaporesling.jpg" alt="..." />
+                    </a>
+                    <div class="portfolio-caption">
+                        <div class="portfolio-caption-heading">Singapore Sling</div>
+                        <div class="portfolio-caption-subheading text-muted">Receta</div>
+                    </div>
+                </div>
+            </div>
+            <!-- SINGAPORE SLING-->
 
             <!-- BRAMBLE-->
             <div class="col-lg-4 col-sm-6 mb-4 ">
@@ -135,6 +189,60 @@ require_once 'header.php';
                 </div>
             </div>
             <!-- GINLET-->
+
+            <!--  Gin Fizz-->
+            <div class="col-lg-4 col-sm-6 mb-4 ">
+                
+                <div class="portfolio-item">
+                    <a class="portfolio-link" data-bs-toggle="modal" href="#ginfizz">
+                        <div class="portfolio-hover bg-dark bg-opacity-50">
+                            <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
+                        </div>
+                        <img class="img-fluid" src="assets/img/portfolio/ginfizz.jpg" alt="..." />
+                    </a>
+                    <div class="portfolio-caption">
+                        <div class="portfolio-caption-heading">Gin Fizz</div>
+                        <div class="portfolio-caption-subheading text-muted">Receta</div>
+                    </div>
+                </div>
+            </div>
+            <!--  Gin Fizz-->
+
+            <!--  Aviation-->
+            <div class="col-lg-4 col-sm-6 mb-4 ">
+                
+                <div class="portfolio-item">
+                    <a class="portfolio-link" data-bs-toggle="modal" href="#aviation">
+                        <div class="portfolio-hover bg-dark bg-opacity-50">
+                            <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
+                        </div>
+                        <img class="img-fluid" src="assets/img/portfolio/aviation.jpg" alt="..." />
+                    </a>
+                    <div class="portfolio-caption">
+                        <div class="portfolio-caption-heading">Aviación</div>
+                        <div class="portfolio-caption-subheading text-muted">Receta</div>
+                    </div>
+                </div>
+            </div>
+            <!--  Aviation-->
+
+            <!--  Gin Basil Smash-->
+            <div class="col-lg-4 col-sm-6 mb-4 ">
+                
+                <div class="portfolio-item">
+                    <a class="portfolio-link" data-bs-toggle="modal" href="#ginbasilsmash">
+                        <div class="portfolio-hover bg-dark bg-opacity-50">
+                            <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
+                        </div>
+                        <img class="img-fluid" src="assets/img/portfolio/ginbasilsmash.jpg" alt="..." />
+                    </a>
+                    <div class="portfolio-caption">
+                        <div class="portfolio-caption-heading">Gin Basil Smash</div>
+                        <div class="portfolio-caption-subheading text-muted">Receta</div>
+                    </div>
+                </div>
+            </div>
+            <!--  Gin Basil Smash-->
         </div> 
     </div>           
     
@@ -160,6 +268,21 @@ require_once 'modal-ginebra/tom-collins.php';
 require_once 'modal-ginebra/dry-martini.php';
 ?>
 
+<!-- BLACK LADY-->
+<?php
+require_once 'modal-ginebra/black-lady.php';
+?>
+
+<!-- SINGAPORE SLING-->
+<?php
+require_once 'modal-ginebra/singapore-sling.php';
+?>
+
+<!-- ALABAMA SLAMMER-->
+<?php
+require_once 'modal-ginebra/alabama-slammer.php';
+?>
+
 <!-- BRAMBLE-->
 <?php
 require_once 'modal-ginebra/bramble.php';
@@ -168,6 +291,21 @@ require_once 'modal-ginebra/bramble.php';
 <!-- GINLET-->
 <?php
 require_once 'modal-ginebra/ginlet.php';
+?>
+
+<!-- gin fizz-->
+<?php
+require_once 'modal-ginebra/gin-fizz.php';
+?>
+
+<!-- AVIATION-->
+<?php
+require_once 'modal-ginebra/aviation.php';
+?>
+
+<!-- Gin Basil Smash-->
+<?php
+require_once 'modal-ginebra/gin-basil-smash.php';
 ?>
 
 </body>
