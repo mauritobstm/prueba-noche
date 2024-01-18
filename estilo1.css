@@ -1,21 +1,14 @@
-.fondoo{
-    background-image: url(fondito.png);
-    height: 85vh;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.fondogin{
-    background-image: url(fondogin.jpeg);
-    height: 85vh;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 .fondoo2{
   background-image: url(fondo4.png);
+  height: 85vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fondoo3{
+  background-image: url(portada-tequila.png);
   height: 85vh;
   background-position: center;
   background-repeat: no-repeat;
