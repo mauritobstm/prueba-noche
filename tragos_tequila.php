@@ -2,24 +2,11 @@
 require_once 'header.php'; 
 ?> 
 
-<nav class="navbar navbar-expand-lg bg-dark fixed-top" id="mainNav">
-            <div class="container">
-                <a class="navbar-brand" href="/nochepueba"><img src="assets/img/logoo.png" alt="..." /></a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    Menu
-                    <i class="fas fa-bars ms-1"></i>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                        <li class="sombra nav-item"><a class="nav-link" href="#services">Services</a></li>
-                        <li class="sombra nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
-                        <li class="sombra nav-item"><a class="nav-link" href="#about">About</a></li>
-                        <li class="sombra nav-item"><a class="nav-link" href="#team">Team</a></li>
-                        <li class="sombra nav-item"><a class="nav-link" href="#contact">Contact</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
+<<nav class="navbar navbar-expand-lg bg-dark fixed-top" id="mainNav">
+    <div class="container justify-content-center">
+        <a class="navbar-brand m-0" href="/nochepueba"><img src="assets/img/logoo.png" alt="..." /></a>
+    </div>
+</nav>
 <body>
     <div class="fondoo3 d-flex justify-content-center align-items-center">
         <h1 class="bordeado">Tragos con Tequila</h1>

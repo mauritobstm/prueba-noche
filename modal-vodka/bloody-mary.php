@@ -1,5 +1,5 @@
 <!-- MODAL BLOODY MARY-->
-<div class="portfolio-modal modal fade" id="cosmopolitan" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="portfolio-modal modal fade" id="bloodymary" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -8,8 +8,8 @@
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 <!-- detalles del proyecto-->
-                                <h2 class="text-uppercase">Cosmopolitan</h2>
-                                <img class="img-fluid d-block mx-auto mt-5" src="assets/img/portfolio/cosmopolitan.jpg" alt="..." />
+                                <h2 class="text-uppercase">Bloody Mary</h2>
+                                <img class="img-fluid d-block mx-auto mt-5" src="assets/img/portfolio/bloodymary.jpg" alt="..." />
                                 
                                 <ul class="list-inline"><strong>Ingredientes</strong>
                                     <li>Vodka: 50 ml</li>
