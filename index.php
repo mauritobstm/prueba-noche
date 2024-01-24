@@ -271,7 +271,7 @@
             </div>
         </div>
 
-        <!-- Contact-->
+        <!-- donaciones-->
         <section class="page-section" id="contact">
             <div class="container">
                 <div class="text-center">
@@ -280,19 +280,19 @@
                 </div>
 
                 <div class="d-flex flex-column align-items-center">
-                <a href="https://cafecito.app/nochecaribena" target="_blank" style="text-decoration: none;"><h3 class="text-white p-0">Cafecito</h3></a>
+                    <a href="https://cafecito.app/nochecaribena" target="_blank" style="text-decoration: none;"><h3 class="text-white p-0">Cafecito</h3></a>
                     <a href="https://cafecito.app/nochecaribena" target="_blank"><img src="assets/img/logos/cafecito_logo.svg" alt="" style="width: 200px; height: auto; margin-bottom: 50px;"></a>
                     <h3 class="text-white">Pay Pal</h3>
                     <img class="" src="assets/img/logos/paypal_logo2.svg" alt="" style="width: 200px; height: auto;">
                 </div>
-
-                
-                
             </div>
         </section>
 
         <!-- Contact-->
-        <section class="page-section mt-5" id="contact">
+        <section class="page-section mt-5 bg-white" id="contact" style="background-color: #212529;
+  background-image: url('assets/img/fondo-noche.png');
+  background-repeat: no-repeat;
+  background-position: center;">
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Contacto</h2>
@@ -313,11 +313,7 @@
                                 <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
                                 <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
                             </div>
-                            <div class="form-group mb-md-0">
-                                <!-- Phone number input-->
-                                <input class="form-control" id="phone" type="tel" placeholder="Celular *" data-sb-validations="required" />
-                                <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
-                            </div>
+                            
                         </div>
                         <div class="col-md-6">
                             <div class="form-group form-group-textarea mb-md-0">
