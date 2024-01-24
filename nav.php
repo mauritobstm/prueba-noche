@@ -8,10 +8,10 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                         <li class="sombra nav-item"><a class="nav-link" href="#portfolio">Tragos</a></li>
-                        <li class="sombra nav-item"><a class="nav-link" href="#services">Services</a></li>
-                        <li class="sombra nav-item"><a class="nav-link" href="#about">About</a></li>
+                        <li class="sombra nav-item"><a class="nav-link" href="#about">Objetivos</a></li>
                         <li class="sombra nav-item"><a class="nav-link" href="#team">Team</a></li>
                         <li class="sombra nav-item"><a class="nav-link" href="#contact">Donaciones</a></li>
+                        <li class="sombra nav-item"><a class="nav-link" href="#contacto">Contacto</a></li>
                     </ul>
                 </div>
             </div>

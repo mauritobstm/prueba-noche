@@ -282,44 +282,41 @@
                 <div class="d-flex flex-column align-items-center">
                     <a href="https://cafecito.app/nochecaribena" target="_blank" style="text-decoration: none;"><h3 class="text-white p-0">Cafecito</h3></a>
                     <a href="https://cafecito.app/nochecaribena" target="_blank"><img src="assets/img/logos/cafecito_logo.svg" alt="" style="width: 200px; height: auto; margin-bottom: 50px;"></a>
-                    <h3 class="text-white">Pay Pal</h3>
-                    <img class="" src="assets/img/logos/paypal_logo2.svg" alt="" style="width: 200px; height: auto;">
+                    <a href="https://www.paypal.com/donate/?hosted_button_id=S6GYYSS9FENY2#" target="_blank" style="text-decoration: none;"><h3 class="text-white">Pay Pal</h3></a>
+                    <a href="https://www.paypal.com/donate/?hosted_button_id=S6GYYSS9FENY2#" target="_blank" style="text-decoration: none;"><img class="" src="assets/img/logos/paypal_logo2.svg" alt="" style="width: 200px; height: auto;"></a>
                 </div>
             </div>
         </section>
 
         <!-- Contact-->
-        <section class="page-section mt-5 bg-white" id="contact" style="background-color: #212529;
-  background-image: url('assets/img/fondo-noche.png');
-  background-repeat: no-repeat;
-  background-position: center;">
+        <section class="page-section mt-5 bg-info" id="contacto" style="background-color: #212529;background-image: url('assets/img/fondo-noche.png');background-repeat: no-repeat;background-position: center; background-size: cover;">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Contacto</h2>
-                    <h3 class="section-subheading text-muted">Contactate con nosotros si tienes alguna duda o sugerencia.</h3>
+                    <h2 class="sombra section-heading text-uppercase text-white">Contacto</h2>
+                    <h3 class="sombra section-subheading text-white">Contactate con nosotros si tienes alguna duda o sugerencia.</h3>
                 </div>
 
-                <form id="contactForm" data-sb-form-api-token="API_TOKEN">
+                <form id="contact1Form" data-sb-form-api-token="API_TOKEN">
                     <div class="row align-items-stretch mb-5">
                         <div class="col-md-6">
                             <div class="form-group">
                                 <!-- Name input-->
-                                <input class="form-control" id="name" type="text" placeholder="Nombre *" data-sb-validations="required" />
-                                <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
+                                <input class="form-control form-control-lg mb-2" id="name" type="text" placeholder="Nombre *" data-sb-validations="required" />
+                                <div class="invalid-feedback" data-sb-feedback="name:required">Se requiere un nombre.</div>
                             </div>
                             <div class="form-group">
                                 <!-- Email address input-->
-                                <input class="form-control" id="email" type="email" placeholder="Email *" data-sb-validations="required,email" />
-                                <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
-                                <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
+                                <input class="form-control form-control-lg mb-2" id="email" type="email" placeholder="Correo *" data-sb-validations="required,email" />
+                                <div class="invalid-feedback" data-sb-feedback="email:required">Se requiere un email.</div>
+                                <div class="invalid-feedback" data-sb-feedback="email:email">El correo no es válido.</div>
                             </div>
                             
                         </div>
                         <div class="col-md-6">
                             <div class="form-group form-group-textarea mb-md-0">
                                 <!-- Message input-->
-                                <textarea class="form-control" id="message" placeholder="Mensaje *" data-sb-validations="required"></textarea>
-                                <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
+                                <textarea class="form-control form-control-lg" id="message" placeholder="Mensaje *" data-sb-validations="required" rows="4"></textarea>
+                                <div class="invalid-feedback" data-sb-feedback="message:required">Se requiere un mensaje.</div>
                             </div>
                         </div>
                     </div>
@@ -329,7 +326,7 @@
                             <div class="fw-bolder">Form submission successful!</div>
                             To activate this form, sign up at
                             <br />
-                            <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
+                            <a href="https://startbootstrap.com/solution/contact1-forms">https://startbootstrap.com/solution/contact1-forms</a>
                         </div>
                     </div>
                     <!-- Submit error message-->
