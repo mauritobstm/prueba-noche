@@ -1,0 +1,10 @@
+.carrusel-item{
+    display: flex;
+  }
+
+  .carrusel-item{
+    width: 1200px;
+  }
+  .carrusel-items{
+    overflow-x: hidden;
+  }

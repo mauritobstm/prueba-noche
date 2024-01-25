@@ -114,6 +114,22 @@
             </div>
         </section>
 
+        <!-- tragos Scroll-->
+        <section class="page-section bg-dark p-0" id="portfolio">
+            <div class="carrusel">
+            <h2 class="text-center section-heading text-white">Tragos Famosos</h2>
+                <div class="carrusel-items">
+                    <div class="carrusel-item">
+                        <?php
+                            require_once 'carrusel.php';
+                        ?>
+                    </div>
+                </div>
+            </div>
+        <script src="carru.js"></script>
+        </section>
+        
+
         <!-- Services-->
         <section class="page-section" id="services">
             <div class="container">
@@ -149,6 +165,8 @@
                 </div>
             </div>
         </section>
+
+        
 
         <!-- objetivos-->
         <section class="page-section" id="about">
