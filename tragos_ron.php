@@ -32,6 +32,24 @@ require_once 'header.php';
             </div>
             <!-- PIÑA COLADA-->
 
+             <!--  PLANTER'S PUNCH-->
+            <div class="col-lg-4 col-sm-6 mb-4 ">
+
+                <div class="portfolio-item">
+                    <a class="portfolio-link" data-bs-toggle="modal" href="#planterspunch">
+                        <div class="portfolio-hover bg-dark bg-opacity-50">
+                            <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
+                        </div>
+                        <img class="img-fluid" src="assets/img/portfolio/planter'spunch.jpg" alt="..." />
+                    </a>
+                    <div class="portfolio-caption">
+                        <div class="portfolio-caption-heading">Planter's Punch</div>
+                        <div class="portfolio-caption-subheading text-muted">Receta</div>
+                    </div>
+                </div>
+            </div>
+            <!-- PLANTER'S PUNCH-->
+
             <!-- MAI TAI-->
             <div class="col-lg-4 col-sm-6 mb-4 ">
 
@@ -68,6 +86,24 @@ require_once 'header.php';
             </div>
             <!-- CUBA LIBRE-->
 
+            <!-- DARK AND STORMY-->
+            <div class="col-lg-4 col-sm-6 mb-4 ">
+
+                <div class="portfolio-item">
+                    <a class="portfolio-link" data-bs-toggle="modal" href="#darkandstormy">
+                        <div class="portfolio-hover bg-dark bg-opacity-50">
+                            <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
+                        </div>
+                        <img class="img-fluid" src="assets/img/portfolio/darkandstormy.jpg" alt="..." />
+                    </a>
+                    <div class="portfolio-caption">
+                        <div class="portfolio-caption-heading">Dark and Stormy</div>
+                        <div class="portfolio-caption-subheading text-muted">Receta</div>
+                    </div>
+                </div>
+            </div>
+            <!-- DARK AND STORMY-->
+
              <!-- MOJITO-->
             <div class="col-lg-4 col-sm-6 mb-4 ">
 
@@ -86,7 +122,7 @@ require_once 'header.php';
             </div>
             <!-- MOJITO-->
 
-               <!-- ZOMBIE-->
+            <!-- ZOMBIE-->
             <div class="col-lg-4 col-sm-6 mb-4 ">
 
                 <div class="portfolio-item">
@@ -103,6 +139,24 @@ require_once 'header.php';
                 </div>
             </div>
             <!-- ZOMBIE-->
+
+            <!-- HURRICANE-->
+            <div class="col-lg-4 col-sm-6 mb-4 ">
+
+                <div class="portfolio-item">
+                    <a class="portfolio-link" data-bs-toggle="modal" href="#hurricane">
+                        <div class="portfolio-hover bg-dark bg-opacity-50">
+                            <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
+                        </div>
+                        <img class="img-fluid" src="assets/img/portfolio/hurricane.jpg" alt="..." />
+                    </a>
+                    <div class="portfolio-caption">
+                        <div class="portfolio-caption-heading">Hurricane</div>
+                        <div class="portfolio-caption-subheading text-muted">Receta</div>
+                    </div>
+                </div>
+            </div>
+            <!-- HURRICANE-->
 
              <!-- DAIQUIRI-->
             <div class="col-lg-4 col-sm-6 mb-4 ">
@@ -132,6 +186,11 @@ require_once 'header.php';
 require_once 'modal-ron/piña-colada.php';
 ?>
 
+<!-- PLANTER'S PUNCH-->
+<?php
+require_once 'modal-ron/planters-punch.php';
+?>
+
 <!-- MAI TAI-->
 <?php
 require_once 'modal-ron/mai-tai.php';
@@ -142,6 +201,11 @@ require_once 'modal-ron/mai-tai.php';
 require_once 'modal-ron/cuba-libre.php';
 ?>
 
+<!-- DARK AND STORMY-->
+<?php
+require_once 'modal-ron/dark-and-stormy.php';
+?>
+
 <!-- MOJITO-->
 <?php
 require_once 'modal-ron/mojito.php';
@@ -150,6 +214,11 @@ require_once 'modal-ron/mojito.php';
 <!-- ZOMBIE-->
 <?php
 require_once 'modal-ron/zombie.php';
+?>
+
+<!-- HURRICANE-->
+<?php
+require_once 'modal-ron/hurricane.php';
 ?>
 
 <!-- DAIQUIRI-->

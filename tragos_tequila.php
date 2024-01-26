@@ -86,6 +86,42 @@ require_once 'header.php';
             </div>
             <!-- TEQUILA SMASH-->
 
+            <!-- MARGARITA-->
+            <div class="col-lg-4 col-sm-6 mb-4 ">
+
+                <div class="portfolio-item">
+                    <a class="portfolio-link" data-bs-toggle="modal" href="#margarita">
+                        <div class="portfolio-hover bg-dark bg-opacity-50">
+                            <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
+                        </div>
+                        <img class="img-fluid" src="assets/img/portfolio/margarita.jpg" alt="..." />
+                    </a>
+                    <div class="portfolio-caption">
+                        <div class="portfolio-caption-heading">Margarita</div>
+                        <div class="portfolio-caption-subheading text-muted">Receta</div>
+                    </div>
+                </div>
+            </div>
+            <!-- MARGARITA-->
+
+            <!-- Tequila Mockingbird-->
+            <div class="col-lg-4 col-sm-6 mb-4 ">
+
+                <div class="portfolio-item">
+                    <a class="portfolio-link" data-bs-toggle="modal" href="#tequilamockingbird">
+                        <div class="portfolio-hover bg-dark bg-opacity-50">
+                            <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
+                        </div>
+                        <img class="img-fluid" src="assets/img/portfolio/tequilamockingbird.jpg" alt="..." />
+                    </a>
+                    <div class="portfolio-caption">
+                        <div class="portfolio-caption-heading">Tequila Mockingbird</div>
+                        <div class="portfolio-caption-subheading text-muted">Receta</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Tequila Mockingbird-->
+
         </div> 
     </div>           
     
@@ -109,6 +145,16 @@ require_once 'modal-tequila/el-diablo.php';
 <!-- MODAL TEQUILA SMASH-->
 <?php
 require_once 'modal-tequila/tequila-smash.php';
+?>
+
+<!-- MODAL MARGARITA-->
+<?php
+require_once 'modal-tequila/margarita.php';
+?>
+
+<!-- MODAL Tequila Mockingbird-->
+<?php
+require_once 'modal-tequila/tequila-mockingbird.php';
 ?>
 
 </body>

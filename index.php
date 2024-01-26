@@ -128,45 +128,6 @@
             </div>
         <script src="carru.js"></script>
         </section>
-        
-
-        <!-- Services-->
-        <section class="page-section" id="services">
-            <div class="container">
-                <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Services</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-                </div>
-                <div class="row text-center">
-                    <div class="col-md-4">
-                        <span class="fa-stack fa-4x">
-                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
-                        </span>
-                        <h4 class="my-3">E-Commerce</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                    </div>
-                    <div class="col-md-4">
-                        <span class="fa-stack fa-4x">
-                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
-                        </span>
-                        <h4 class="my-3">Responsive Design</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                    </div>
-                    <div class="col-md-4">
-                        <span class="fa-stack fa-4x">
-                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
-                        </span>
-                        <h4 class="my-3">Web Security</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        
 
         <!-- objetivos-->
         <section class="page-section" id="about">
@@ -176,7 +137,7 @@
                 </div>
                 <ul class="timeline">
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/objetivos1.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4 class="subheading">Variedad de Recetas</h4>
@@ -185,7 +146,7 @@
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/objetivos2.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4 class="subheading">Facilidad de Navegación</h4>
@@ -194,31 +155,31 @@
                         </div>
                     </li>
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/3.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/objetivos3.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4 class="subheading">Información Detallada</h4>
+                                <h4 class="subheading">Eventos y Celebraciones</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Incluir detalles exhaustivos sobre cada receta, como ingredientes, cantidades, instrucciones paso a paso y sugerencias de presentación.</p></div>
+                            <div class="timeline-body"><p class="text-muted">Mantener a los usuarios informados sobre eventos relacionados con cócteles, festivales de bebidas y celebraciones especiales.</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/4.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/objetivos4.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4 class="subheading">Fotografías Atractivas</h4>
+                                <h4 class="subheading">Información Sobre La Historia De Los Cócteles</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Añadir imágenes de alta calidad que muestren visualmente cómo debería lucir el cóctel final, lo que puede estimular el interés y el apetito de los usuarios.</p></div>
+                            <div class="timeline-body"><p class="text-muted">Nos gustaría ofrecerles la historia sobre los cocteles mas famosos y datos interesantes.</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
                         <div class="timeline-image">
                             <h4>
-                                Be Part
+                                Sea Parte
                                 <br />
-                                Of Our
+                                De Nuestra
                                 <br />
-                                Story!
+                                Historia!
                             </h4>
                         </div>
                     </li>
@@ -269,25 +230,6 @@
                 </div>
             </div>
         </section>
-        <!-- Clients-->
-        <div class="py-5">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/microsoft.svg" alt="..." aria-label="Microsoft Logo" /></a>
-                    </div>
-                    <div class="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/google.svg" alt="..." aria-label="Google Logo" /></a>
-                    </div>
-                    <div class="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/facebook.svg" alt="..." aria-label="Facebook Logo" /></a>
-                    </div>
-                    <div class="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/ibm.svg" alt="..." aria-label="IBM Logo" /></a>
-                    </div>
-                </div>
-            </div>
-        </div>
 
         <!-- donaciones-->
         <section class="page-section" id="contact">
@@ -307,7 +249,7 @@
         </section>
 
         <!-- Contact-->
-        <section class="page-section mt-5 bg-info" id="contacto" style="background-color: #212529;background-image: url('assets/img/fondo-noche.png');background-repeat: no-repeat;background-position: center; background-size: cover;">
+        <section class="page-section mt-3 bg-info" id="contacto" style="background-color: #212529;background-image: url('assets/img/fondo-noche.png');background-repeat: no-repeat;background-position: center; background-size: cover;">
             <div class="container">
                 <div class="text-center">
                     <h2 class="sombra section-heading text-uppercase text-white">Contacto</h2>
