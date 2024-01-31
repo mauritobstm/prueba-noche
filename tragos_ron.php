@@ -176,6 +176,8 @@ require_once 'header.php';
             </div>
             <!-- DAIQUIRI-->
 
+             
+
         </div> 
     </div>           
     
@@ -225,6 +227,8 @@ require_once 'modal-ron/hurricane.php';
 <?php
 require_once 'modal-ron/daiquiri.php';
 ?>
+
+
 
 </body>
 <?php

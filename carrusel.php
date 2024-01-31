@@ -8,7 +8,7 @@
         </div>
         <img class="img-fluid" src="assets/img/portfolio/piñacolada.jpg" alt="..." />
     </a>
-    <div class="portfolio-caption">
+    <div class="carta portfolio-caption">
         <div class="portfolio-caption-heading">Piña Colada</div>
         <div class="portfolio-caption-subheading text-muted">Receta</div>
     </div>
@@ -26,7 +26,7 @@
             </div>
             <img class="img-fluid" src="assets/img/portfolio/bloodymary.jpg" alt="..." />
         </a>
-        <div class="portfolio-caption">
+        <div class="carta portfolio-caption">
             <div class="portfolio-caption-heading">Bloody Mary</div>
             <div class="portfolio-caption-subheading text-muted">Receta</div>
         </div>
@@ -43,7 +43,7 @@
                                 </div>
                                 <img class="img-fluid" src="assets/img/portfolio/moscowmule.jpg" alt="..." />
                             </a>
-                            <div class="portfolio-caption">
+                            <div class="carta portfolio-caption">
                                 <div class="portfolio-caption-heading">Moscow Mule</div>
                                 <div class="portfolio-caption-subheading text-muted">Receta</div>
                             </div>
@@ -60,7 +60,7 @@
                         </div>
                         <img class="img-fluid" src="assets/img/portfolio/martinivodka.jpg" alt="..." />
                     </a>
-                    <div class="portfolio-caption">
+                    <div class="carta portfolio-caption">
                         <div class="portfolio-caption-heading">Vodka Martini</div>
                         <div class="portfolio-caption-subheading text-muted">Receta</div>
                     </div>
@@ -77,7 +77,7 @@
                         </div>
                         <img class="img-fluid" src="assets/img/portfolio/gintonic.jpg" alt="..." />
                     </a>
-                    <div class="portfolio-caption">
+                    <div class="carta portfolio-caption">
                         <div class="portfolio-caption-heading">Gin Tonic</div>
                         <div class="portfolio-caption-subheading text-muted">Receta</div>
                     </div>
@@ -94,7 +94,7 @@
                         </div>
                         <img class="img-fluid" src="assets/img/portfolio/aviation.jpg" alt="..." />
                     </a>
-                    <div class="portfolio-caption">
+                    <div class="carta portfolio-caption">
                         <div class="portfolio-caption-heading">Aviación</div>
                         <div class="portfolio-caption-subheading text-muted">Receta</div>
                     </div>
@@ -111,7 +111,7 @@
                         </div>
                         <img class="img-fluid" src="assets/img/portfolio/cubalibre.jpg" alt="..." />
                     </a>
-                    <div class="portfolio-caption">
+                    <div class="carta portfolio-caption">
                         <div class="portfolio-caption-heading">Cuba Libre</div>
                         <div class="portfolio-caption-subheading text-muted">Receta</div>
                     </div>
@@ -129,7 +129,7 @@
                         </div>
                         <img class="img-fluid" src="assets/img/portfolio/mojito.jpg" alt="..." />
                     </a>
-                    <div class="portfolio-caption">
+                    <div class="carta portfolio-caption">
                         <div class="portfolio-caption-heading">Mojito</div>
                         <div class="portfolio-caption-subheading text-muted">Receta</div>
                     </div>
@@ -147,7 +147,7 @@
                         </div>
                         <img class="img-fluid" src="assets/img/portfolio/daiquiri.jpg" alt="..." />
                     </a>
-                    <div class="portfolio-caption">
+                    <div class="carta portfolio-caption">
                         <div class="portfolio-caption-heading">Daiquiri</div>
                         <div class="portfolio-caption-subheading text-muted">Receta</div>
                     </div>
@@ -165,7 +165,7 @@
                         </div>
                         <img class="img-fluid" src="assets/img/portfolio/eldiablo.jpg" alt="..." />
                     </a>
-                    <div class="portfolio-caption">
+                    <div class="carta portfolio-caption">
                         <div class="portfolio-caption-heading">El Diablo</div>
                         <div class="portfolio-caption-subheading text-muted">Receta</div>
                     </div>
@@ -183,13 +183,31 @@
                         </div>
                         <img class="img-fluid" src="assets/img/portfolio/margarita.jpg" alt="..." />
                     </a>
-                    <div class="portfolio-caption">
+                    <div class="carta portfolio-caption">
                         <div class="portfolio-caption-heading">Margarita</div>
                         <div class="portfolio-caption-subheading text-muted">Receta</div>
                     </div>
                 </div>
             </div>
             <!-- MARGARITA-->
+
+             <!-- CAIPIRINHA -->
+            <div class="col-lg-4 col-sm-6 m-2 ">
+
+                <div class="portfolio-item">
+                    <a class="portfolio-link" data-bs-toggle="modal" href="#caipirinha ">
+                        <div class="portfolio-hover bg-dark bg-opacity-50">
+                            <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
+                        </div>
+                        <img class="img-fluid" src="assets/img/portfolio/caipirinha.jpg" alt="..." />
+                    </a>
+                    <div class="carta portfolio-caption">
+                        <div class="portfolio-caption-heading">Caipirinha </div>
+                        <div class="portfolio-caption-subheading text-muted">Receta</div>
+                    </div>
+                </div>
+            </div>
+            <!-- CAIPIRINHA-->
 
 
 <!-- AVIATION-->
@@ -245,4 +263,9 @@ require_once 'modal-tequila/el-diablo.php';
 <!-- MODAL MARGARITA-->
 <?php
 require_once 'modal-tequila/margarita.php';
+?>
+
+<!-- MODAL CAIPIRINHA-->
+<?php
+require_once 'modal-ron/caipirinha.php';
 ?>
