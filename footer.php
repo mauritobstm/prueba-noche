@@ -3,7 +3,31 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 text-lg-start">Copyright &copy; Noche Caribeña 2024</div>
                     <div class="col-lg-4 my-3 my-lg-0">
-                        <a class="portfolio-link" data-bs-toggle="modal" href="#donacioness"><button type="button" class="btn btn-outline-dark">Donaciones</button></a>
+                        <a class="portfolio-link" data-bs-toggle="modal" href="#donacioness"><button type="button" class="btn btn-outline-dark">Donación QR</button></a>
+                        
+                        <a href='https://cafecito.app/nochecaribena' rel='noopener' target='_blank'>
+                            <img srcset='https://cdn.cafecito.app/imgs/buttons/button_1.png 1x, 
+                            https://cdn.cafecito.app/imgs/buttons/button_1_2x.png 2x,
+                             https://cdn.cafecito.app/imgs/buttons/button_1_3.75x.png 3.75x' 
+                             src='https://cdn.cafecito.app/imgs/buttons/button_1.png' 
+                             alt='Invitame un café en cafecito.app' /></a>
+
+                            <div id="donate-button-container" class="m-2">
+                                <div id="donate-button"></div>
+                                <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+                                <script>
+                                    PayPal.Donation.Button({
+                                    env:'production',
+                                    hosted_button_id:'TJJHV3MNZM7TQ',
+                                    image: {
+                                    src:'https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif',
+                                    alt:'Donate with PayPal button',
+                                    title:'PayPal - The safer, easier way to pay online!',
+                                    }
+                                    }).render('#donate-button');
+                                </script>
+                            </div>
+
                         <a class="portfolio-link" data-bs-toggle="modal" href="#contactoo"><button type="button" class="btn btn-outline-dark">Contacto</button></a>
                     </div>
                     <div class="col-lg-4 text-lg-end">
@@ -14,9 +38,9 @@
             </div>
 </footer>
 
+    <!-- MODAL CONTACTO -->
 <div class="portfolio-modal modal fade" id="contactoo" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog">
-        <div class="modal-content p-0 bg-dark">
             
                 <div class="container">
                     <div class="row justify-content-center">
@@ -72,51 +96,43 @@
                                                 </form>
                                         </div>
                                 </section>
-                                <button class="btn btn-danger btn-xl text-uppercase mt-3" data-bs-dismiss="modal" type="button">
+                                <div class="text-center"><button class="btn btn-danger btn-xl text-uppercase mt-1 text-center" data-bs-dismiss="modal" type="button">
                                     <i class="fas fa-xmark me-1"></i>
                                     Cerrar
-                                </button>
+                                </button></div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
     </div> 
 </div>
 
+<!-- MODAL DONACIONES-->
 <div class="portfolio-modal modal fade" id="donacioness" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog">
-        <div class="modal-content p-0 bg-dark">
+        <!--<div class="modal-content p-0 bg-dark">-->
                 <div class="container">
                     <div class="row justify-content-center">
-                        <div class="col-lg-12">
+                        <div class="col-lg-8">
                             <div class="modal-body">
                                 <section class="page-section" id="contact">
                                         <div class="container">
-                                                <div class="text-center">
-                                                <h2 class="section-heading text-uppercase">DONACIONES</h2>
-                                                <h3 class="section-subheading text-white">Ayudanos a tener nuestro propio dominio y a seguir creciendo.</h3>
-                                                </div>
-
-                                                <div class="d-flex flex-column align-items-center">
-                                                <a href="https://cafecito.app/nochecaribena" target="_blank" style="text-decoration: none;"><h3 class="text-white p-0">Cafecito</h3></a>
-                                                <a href="https://cafecito.app/nochecaribena" target="_blank"><img src="assets/img/logos/cafecito_logo.svg" alt="" style="width: 200px; height: auto; margin-bottom: 50px;"></a>
-                                                <a href="https://www.paypal.com/donate/?hosted_button_id=S6GYYSS9FENY2#" target="_blank" style="text-decoration: none;"><h3 class="text-white">Pay Pal</h3></a>
-                                                <a href="https://www.paypal.com/donate/?hosted_button_id=S6GYYSS9FENY2#" target="_blank" style="text-decoration: none;"><img class="" src="assets/img/logos/paypal_logo2.svg" alt="" style="width: 200px; height: auto;"></a>
-                                                </div>
+                                            <div class="d-flex flex-column align-items-center">
+                                                <img class="" src="assets/img/logos/Codigo_QR.png" alt="" style="width: 300px; height: auto;">
+                                            </div>
                                         </div>
                                 </section>
-                                <button class="btn btn-danger btn-xl text-uppercase mt-3" data-bs-dismiss="modal" type="button">
+                                <div class="text-center"><button class="btn btn-danger btn-xl text-uppercase mt-1" data-bs-dismiss="modal" type="button">
                                     <i class="fas fa-xmark me-1"></i>
                                     Cerrar
-                                </button>
+                                </button></div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        <!--</div>-->
     </div> 
 </div>
 

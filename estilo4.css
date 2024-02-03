@@ -1,0 +1,17 @@
+input[type="submit"] {
+    padding: 10px 30px;
+    font-size: 20px;
+    background-color: #e4e717;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    
+    /* Transición suave al pasar el ratón */
+}
+
+input[type="submit"]:hover {
+    background-color: #e8f808;
+    /* Cambia el color al pasar el ratón */
+}
