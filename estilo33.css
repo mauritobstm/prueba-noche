@@ -29,6 +29,14 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+  .fondoo6{
+    background-image: url(portada-blue.jpg);
+    height: 85vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
   
   .bordeado {
       font-size: 55px;      /* Tamaño de fuente */
