@@ -16,6 +16,24 @@
 </div>
 <!-- PIÑA COLADA-->
 
+<!-- FERNET-->
+<div class="col-lg-4 col-sm-6 m-2 ">
+
+<div class="portfolio-item">
+    <a class="portfolio-link" data-bs-toggle="modal" href="#fernet">
+        <div class="portfolio-hover bg-dark bg-opacity-50">
+            <div class="portfolio-hover-content"><h2>Ver Receta</h2></div>
+        </div>
+        <img class="img-fluid" src="assets/img/portfolio/fernet.jpg" alt="..." />
+    </a>
+    <div class="portfolio-caption">
+        <div class="portfolio-caption-heading">Fernet</div>
+        <div class="portfolio-caption-subheading text-muted">Receta</div>
+    </div>
+</div>
+</div>
+<!-- FERNET-->
+
 <!-- BLOODY MARY-->
 <div class="col-lg-4 col-sm-6 m-2">
                         
@@ -209,7 +227,6 @@
             </div>
             <!-- CAIPIRINHA-->
 
-
 <!-- AVIATION-->
 <?php
 require_once 'modal-ginebra/aviation.php';
@@ -268,4 +285,9 @@ require_once 'modal-tequila/margarita.php';
 <!-- MODAL CAIPIRINHA-->
 <?php
 require_once 'modal-ron/caipirinha.php';
+?>
+
+<!-- MODAL FERNET-->
+<?php
+require_once 'modal-martini/fernet.php';
 ?>

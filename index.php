@@ -125,6 +125,34 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4">
+                    <!-- Portfolio item 2-->
+                    <div class="portfolio-item">
+                            <a class="portfolio-link" href="tragos_licor.php">
+                                <div class="portfolio-hover bg-dark bg-opacity-50">
+                                    <div class="portfolio-hover-content"><?php require 'fat.php'; ?></div>
+                                </div>
+                                <img class="img-fluid" src="assets/img/portfolio/licor.jpg" alt="..." />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">Tragos con Licor</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                    <!-- Portfolio item 2-->
+                    <div class="portfolio-item">
+                            <a class="portfolio-link" href="tragos_martini.php">
+                                <div class="portfolio-hover bg-dark bg-opacity-50">
+                                    <div class="portfolio-hover-content"><?php require 'fat.php'; ?></div>
+                                </div>
+                                <img class="img-fluid" src="assets/img/portfolio/martini.jpg" alt="..." />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">Tragos con Martini</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 mb-4">
                 </div>
             </div>
         </section>
